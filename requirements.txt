@@ -1,0 +1,5 @@
+# Use the following command to regenerate Python modules
+# flatpak-pip-generator --runtime=org.kde.Sdk//6.10 -r requirements.txt -o pypi-dependencies
+
+appdirs
+darkdetect
